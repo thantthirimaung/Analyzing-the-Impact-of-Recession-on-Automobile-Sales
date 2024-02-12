@@ -57,6 +57,10 @@ https://www.coursera.org/learn/python-for-data-visualization/home/welcome
 
 **Recession Report Dashboard**
 
+![RecessionReportgraphs](https://github.com/thantthirimaung/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/assets/125528949/816cd4e2-1482-47b1-8a02-682f752efddd)
+
 
 
 **Yearly Report Dashboard**
+
+![YearlyReportgraphs](https://github.com/thantthirimaung/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/assets/125528949/3ecf4c9d-8f29-4a46-b831-23b12da1680d)
